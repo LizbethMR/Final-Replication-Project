@@ -9,7 +9,7 @@ set more off
 * 1. Directory paths  *
 *============================*
 
-global root "/Users/lizbethmartinez/Desktop/Main Replications"
+global root "YOUR ROOT HERE"
 
 global output    "$root/output"
 global figures   "$root/figures"
